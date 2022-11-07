@@ -23,14 +23,14 @@ An array (the filled array)
 
 <script>
   const fruits = ["Banana", "Orange", "Apple", "Mango"];
-  document.getElementById("demo").innerHTML = fruits.fill("shihan");
+  document.getElementById("demo").innerHTML = fruits.fill("Lemon, 2, 4");
 </script>
 
 </body>
 </html>
 ~~~
 
-### Output: shihan,shihan,shihan,shihan
+### Output: Banana,Orange,Lemon,Lemon
 
 Example: https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_fill
 
